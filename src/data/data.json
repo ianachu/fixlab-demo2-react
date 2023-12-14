@@ -68,33 +68,33 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Preventive Maintanance",
+      "text": "FixLab excels in proactive preventive maintenance, ensuring uninterrupted business operations. Continuous system monitoring and scheduled upkeep preempt potential IT infrastructure issues. Tailored maintenance plans optimize performance, bolster cybersecurity, and reduce unforeseen breakdowns, preserving time and resources. Our detailed reporting and customized solutions provide peace of mind, allowing you to concentrate on core business activities while we safeguard your systems. Trust FixLab for seamless, efficient operations through proactive maintenance and dedicated support."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "CCTV & Acess Control",
+      "text": "FixLab specializes in delivering top-tier CCTV and advanced security solutions tailored to your specific needs. Our comprehensive surveillance systems, equipped with high-definition cameras and cutting-edge technology, offer real-time monitoring, deterrence against potential threats, and seamless integration with scalable capabilities. Our expert technicians ensure professional installation, compliance with regulations, and ongoing support, empowering you with 24/7 monitoring and remote access for peace of mind and efficient property protection."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Core Networking",
+      "text": "FixLab specializes in customized networking solutions to enhance business connectivity. Our team designs scalable network architectures, seamlessly deploying routers, switches, firewalls, and access points. We prioritize robust security, integrating encryption protocols and intrusion detection systems against cyber threats. Regular optimization assessments fine-tune configurations, ensuring peak performance. Proficient in cloud integration, wireless networks, and proactive monitoring, we facilitate seamless data transfer and real-time issue resolution. With dedicated support, maintenance, and security measures, FixLab ensures secure, optimized, and reliable networks, guaranteeing maximum uptime."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Home & Office Automation",
+      "text": "Home automation integrates smart devices for convenient control over lighting, security, energy usage, and entertainment systems, enhancing daily living. Featuring advanced security measures, energy-efficient settings, and voice or app-based remote access, it ensures seamless monitoring and control. Customizable to individual preferences, it not only maximizes comfort but also elevates property value. Future-proofing homes with adaptable technology, home automation redefines modern living by offering tailored, convenient solutions for enhanced comfort, security, and efficiency."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Web Development & Hosting",
+      "text": "FixLab specializes in user-centric web development, e-commerce solutions, content management systems, and optimized hosting. Prioritizing website security, scalability, and SEO-friendly practices, we ensure a robust online presence. Our services encompass continuous maintenance, updates, and dedicated support, guaranteeing efficient and secure online experiences. From responsive interfaces to reliable hosting, FixLab's expertise ensures speed, security, and uptime, empowering your online presence with tailored solutions for sustained growth and functionality"
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Tele Communication",
+      "text": "FixLab offers tailored telecommunication solutions for businesses, specializing in VoIP services providing cost-effective voice, video, and messaging. Our expertise includes unified communication systems, telephony infrastructure setup, and secure cloud-based solutions, ensuring scalability and efficiency. We prioritize network security with encryption and monitoring. Our services seamlessly integrate with existing systems, emphasizing compatibility. With dedicated support and maintenance, FixLab delivers reliable, efficient communication solutions, empowering businesses to collaborate seamlessly and effectively."
     }
   ],
   "Testimonials": [
