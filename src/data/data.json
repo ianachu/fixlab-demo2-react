@@ -1,21 +1,21 @@
 {
   "Header": {
     "title": "Proactive IT Solutions for Seamless Operations",
-    "paragraph": "At FixLab, our seasoned professionals boast extensive experience in delivering top-tier preventive IT services. With a collective background in successfully implementing proactive solutions across diverse industries, we possess the expertise needed to address your unique IT challenges."
+    "paragraph": "At FixLab, our seasoned professionals boast extensive experience in delivering top-tier preventive IT services. With a collective background in successfully implementing proactive solutions across diverse industries, we possess the expertise needed to address your unique IT challenges.."
   },
   "About": {
-    "paragraph": "FixLab takes pride in a proven track record of preventing critical IT disruptions for our esteemed clients. Through compelling case studies and success stories, we showcase our ability to mitigate risks and avert potential disasters, maintaining seamless business continuit.",
+    "paragraph": "At FixLab, our strength lies in our dedicated team of seasoned IT professionals, each boasting over 8 years of invaluable experience in the industry. Our team embodies a wealth of expertise cultivated through years of hands-on involvement in various facets of IT services. With diverse specializations spanning cybersecurity, network management, cloud computing, software solutions, and more, our experts synergize their skills to offer comprehensive and innovative solutions for your business.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Seasoned Expertise",
+      "Proactive Approach to Problem-Solving",
+      "Customized Solutions for Your Business",
+      "Transparent and Collaborative Service"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Commitment to Continuous Improvement",
+      "Client-Centric Approach",
+      "Comprehensive Service Offerings",
+      "Reliability and Trustworthiness"
     ]
   },
   "Gallery": [
@@ -152,9 +152,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "IInd floor federal bank building , vallikkavu, kollam, kerala ",
+    "phone": "+918075815183",
+    "email": "support@teamfixlab.in",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -162,23 +162,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "24x7 support",
+      "text": "Your business doesn't sleep, and neither do we. FixLab offers round-the-clock support, ensuring that any potential issues are addressed promptly. Our quick response time means minimal disruptions and maximum peace of mind for you."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Focus on Time-Saving Solutions",
+      "text": "Time is valuable. FixLab's preventive services are designed to save you time. Through scheduled maintenance, streamlined operations, and faster issue resolution, we ensure that your business spends more time thriving and less time dealing with IT disruptions."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Proven Expertise in Preventive Solutions",
+      "text": "FixLab is more than a service provider—we're your proactive partner in safeguarding your IT infrastructure. With a proven track record in preventive solutions, our experienced team specializes in implementing strategies that prevent disruptions before they occur, ensuring your business stays resilient."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Transparent Service in Real Time: Witness and Record Your System's Maintenance",
+      "text": "At FixLab, we redefine transparency in servicing your systems. We offer you the unique opportunity to witness the servicing of your systems in real-time. Through secure live video streaming, you can observe our experts as they conduct maintenance, ensuring complete transparency throughout the process.."
     }
   ]
 }
