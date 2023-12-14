@@ -8,8 +8,7 @@ export const Gallery = (props) => {
         <div className="section-title">
           <h2>Gallery</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          Explore our triumphs! Our gallery proudly displays a culmination of our successful completed projects, each a testament to our commitment to excellence and innovation. From intricate network installations to comprehensive cybersecurity solutions, each project exemplifies our dedication, expertise, and unwavering pursuit of delivering superior results. Dive into our gallery to witness firsthand the diversity, quality, and success stories that define our journey at FixLab. We take immense pride in showcasing our achievements, representing the trust and satisfaction of our clients in our services and solutions.
           </p>
         </div>
         <div className="row">

@@ -7,8 +7,7 @@ export const Team = (props) => {
         <div className="col-md-8 col-md-offset-2 section-title">
           <h2>Meet the Team</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          Meet the powerhouse behind FixLab—our team of dedicated professionals. With a collective experience spanning various facets of IT solutions, our experts bring together a wealth of knowledge and innovation. Committed to delivering excellence, each team member contributes unique skills, passion, and a relentless drive toward client satisfaction. Whether it's crafting cutting-edge solutions, providing top-tier technical support, or managing intricate projects, our cohesive team embodies expertise, integrity, and a customer-centric approach. At FixLab, we thrive on collaboration, creativity, and continuous learning, ensuring we stay at the forefront of technological advancements to serve our clients with unparalleled dedication and proficiency
           </p>
         </div>
         <div id="row">

@@ -100,55 +100,55 @@
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"FixLab's expertise in seamless network upgrades, top-notch cybersecurity, and proactive maintenance greatly enhanced our productivity. Highly recommended for reliable IT solutions.\"",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"FixLab's CCTV service exceeded expectations. Their advanced surveillance solutions ensured top-notch security. Highly recommended for reliable and effective surveillance systems.\"",
+      "name": "Zakkeer Ali"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"FixLab isn’t just about home automation; it’s about making life simpler. Their seamless home automation made our daily routine effortless. Highly recommended for turning houses into smart, cozy homes.\"",
+      "name": "Johanan Moopan"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"FixLab's online technical support felt like having a tech-savvy friend at our fingertips. Their quick solutions and friendly guidance made all the difference. Highly recommended for reliable and personable online tech support.\"",
+      "name": "Maya Appukuttan"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"FixLab's telecommunication service was a game-changer for our business. Their seamless integration and reliable connections kept us connected effortlessly. Highly recommended for dependable and efficient telecommunication solutions.\"",
+      "name": "Crystopher Gregory"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"FixLab's web development service transformed our online presence. Their creative designs and user-friendly interface captured our brand essence perfectly. Highly recommended for innovative and engaging website solutions\"",
+      "name": "Shafna Salim"
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Achu Surendran",
+      "job": "CEO"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Harisree",
+      "job": "CTO"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Amal Krishnan",
+      "job": "CTL"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Abhijith",
+      "job": "CMO"
     }
   ],
   "Contact": {

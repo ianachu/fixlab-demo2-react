@@ -7,8 +7,7 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>Our Services</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          At FixLab, our strength lies in our team of seasoned professionals, each bringing over 8 years of diverse and specialized experience in the ever-evolving landscape of IT. Our experts possess a wealth of knowledge and a proven track record in cybersecurity, network management, cloud computing, software solutions, and more. With a combined wealth of experience, our team is dedicated to delivering innovative, reliable, and client-centric solutions to address the dynamic needs of modern businesses..
           </p>
         </div>
         <div className="row">
