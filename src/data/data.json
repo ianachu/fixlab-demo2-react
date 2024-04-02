@@ -129,28 +129,6 @@
       "name": "Shafna Salim"
     }
   ],
-  "Team": [
-    {
-      "img": "img/team/01.jpg",
-      "name": "Achu Surendran",
-      "job": "CEO"
-    },
-    {
-      "img": "img/team/02.jpg",
-      "name": "Harisree",
-      "job": "CTO"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Amal Krishnan",
-      "job": "CTL"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Abhijith",
-      "job": "CMO"
-    }
-  ],
   "Contact": {
     "address": "IInd floor federal bank building , vallikkavu, kollam, kerala ",
     "phone": "+918075815183",
