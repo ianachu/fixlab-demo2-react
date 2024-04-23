@@ -149,7 +149,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Achu Surendran React Land Page Template. Design by{" "}
+            &copy; 2023. Design by{" "}
             <a href="http://www.teamfixlab.in" rel="nofollow">
               FixLab
             </a>
